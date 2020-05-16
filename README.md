@@ -41,4 +41,6 @@
         * Exporting Reports
         * Using SQL in SAS
         * Joining Tables Using SQL in SAS
-	
+        
+* **Certificate Link**
+    > https://coursera.org/share/0bf77387cbc834a8768944e3f39b10af	

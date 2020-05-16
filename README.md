@@ -6,41 +6,20 @@
  ## Applied Learning Project 
  In the last course of this specialization, you complete projects that demonstrate your knowledge of SAS programming. In the first project, you write programs for each stage of the SAS programming process to analyze passenger claims at United States airports. In the second project, you use your knowledge of the data preparation stage to write programs that restructure world tourism data.
 
-## Courses
-1. **Getting Started with SAS Programming**
-* **About this Course**
-    * This course is for users who want to learn how to write SAS programs to access, explore, prepare, and analyze data. It is the entry point to learning SAS programming for data science, machine learning, and artificial intelligence. It is a prerequisite to many other SAS courses.
-    * By the end of this course, you will know how to use SAS Studio to write and submit SAS programs that access SAS, Microsoft Excel, and text data. You will know how to explore and validate data, prepare data by subsetting rows and computing new columns, analyze and report on data, export data and results to other formats, use SQL in SAS to query and join tables.
-* **Prerequisites:**
-    * Learners should have experience using computer software. Specifically, you should be able to understand file structures and system commands on your operating systems and access data files on your operating systems. No prior SAS experience is needed.
-* **Taught by:  Stacey Syphus, Senior Manager**
+<a target="_Blank" href="https://www.coursera.org/professional-certificates/sas-programming?">Coursera</a>
 
-* **Course Layout**
-    * **Week-1**
-        * Using SAS Programming Tools
-        * Understanding SAS Syntax
-    * **Week-2**
-        * Understanding SAS Data
-        * Accessing Data Through Libraries
-        * Importing data into SAS
-    * **Week-3**
-        * Exploring data
-        * Filtering rows
-        * Formatting Columns
-        * Sorting Data and Removing Duplicates
-    * **Week-4**
-        * Reading And Filtering Data
-        * Computing New Columns
-        * Conditional Processing
-    * **Week-5**
-        * Enhancing Reports with Titles, Footnotes, and labels
-        * Creating Frequency Reports
-        * Creating Summary Reports and Data
-    * **Week-6**
-        * Exporting Data
-        * Exporting Reports
-        * Using SQL in SAS
-        * Joining Tables Using SQL in SAS
-        
+## Courses
+1. **Getting Started with SAS Programming** - <a target="_Blank" href="https://www.coursera.org/learn/sas-programming-basics">Coursera</a>
+2. **Doing More with SAS Programming** - <a target="_Blank" href="https://www.coursera.org/learn/sas-programming-advanced">Coursera</a>
+3. **SAS Programming Practical & Certification Review** - <a target="_Blank" href="https://www.coursera.org/learn/sas-programming-certification-review">Coursera</a>
+ 
 * **Certificate Link**
-    > https://coursera.org/share/0bf77387cbc834a8768944e3f39b10af	
+    * **Achivement Links**
+        > Course-1 : https://coursera.org/share/0bf77387cbc834a8768944e3f39b10af
+        > Course-2 : https://coursera.org/share/97a0b0720eb5cf8f80c3241a72e8a8a4
+        > Course-3 : https://coursera.org/share/bd0f2aece73fe5c11a06914101fad804
+        > Specialization : https://coursera.org/share/f465929dd186cc797848cf70897ac328
+    * **In-Github Links**
+        > Course-1 : https://github.com/Ashleshk/SAS-Programmer-Specialization/tree/master/Getting%20Started%20with%20SAS%20Programming
+        > Course-2 : https://github.com/Ashleshk/SAS-Programmer-Specialization/tree/master/Doing%20More%20with%20SAS%20Programming
+        > Course-3 : coming soon..

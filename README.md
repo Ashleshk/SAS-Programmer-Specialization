@@ -28,4 +28,4 @@
 
         > Course-2 : https://github.com/Ashleshk/SAS-Programmer-Specialization/tree/master/Doing%20More%20with%20SAS%20Programming
         
-        > Course-3 : coming soon..
+        > Course-3 : https://github.com/Ashleshk/SAS-Programmer-Specialization/blob/master/SAS%20Programming%20Practical%20%26%20Certification%20Review
